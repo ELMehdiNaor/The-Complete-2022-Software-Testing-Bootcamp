@@ -34,4 +34,30 @@ This course will teach you eveything you need to learn Software Testing. The cou
 - **Good knowledge of English Language**
 
 ## The course content:
-1-
+- **Introduction**
+- **Basic Concepts of Software Testing**
+- **Test Scenario Writing**
+- **Test Case Writing**
+- **Test Execution & Bug Reporting**
+- **Testing Reports: Test Progress & Test Summary Report**
+- **Manual Software Testing Interview Questions**
+- **Black-Box Test Techniques**
+- **How to use Testlink**
+- **Basics of Agile & Agile Testing**
+- **How to use JIRA for Agile Testing**
+- **Mobile Testing basics**
+- **API Testing**
+- **API Testing with Postman**
+- **Performance Testing**
+- **Performance Testing using JMeter**
+- **Test Automation using Katalon Studio**
+- **Freelance Testing Websites**
+- **White-Box Test Technniques**
+- **SQL for Testers**
+- **Advanced Performance Testing using JMeter**
+- **Peformance Testing using HP LoadRunner**
+- **Codeless Test Automation using Selenium IDE**
+- **Test Automation using Playwright**
+- **Java programming for Software Tester**
+- **Unit Testing using JUnit5**
+- **Unit Tests with Mockito**
