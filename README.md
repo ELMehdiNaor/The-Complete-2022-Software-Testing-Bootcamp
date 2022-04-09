@@ -32,3 +32,6 @@ This course will teach you eveything you need to learn Software Testing. The cou
 - **No prior knowledge about the field is required**
 - **Basic computer & mobile using skills**
 - **Good knowledge of English Language**
+
+## The course content:
+1-
