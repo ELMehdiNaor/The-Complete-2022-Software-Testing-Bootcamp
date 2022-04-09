@@ -29,4 +29,6 @@ This course will teach you eveything you need to learn Software Testing. The cou
 - **Basics of Performance Testing using Jmeter**
 
 ## Are there any specific requirements or prerequisites for the course? 
-- 
+- **No prior knowledge about the field is required**
+- **Basic computer & mobile using skills**
+- **Good knowledge of English Language**
