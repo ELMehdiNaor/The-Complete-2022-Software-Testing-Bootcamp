@@ -1,5 +1,7 @@
 # Test Scenario Writing 
 ## What is a Test Scenario?
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/2-Test%20Scenario%20Writing%20%5BBeginner%5D/Images/test_scenario.png" width="600" height="400"> 
+
 A **Test Scenario** is defined as any functionality that can be tested. It is also called **Test Condition**. As a tester, you should put yourself in the end user's shoes and figure out the real world scenarios and uses cases of the application under test.
 ## Why Write Test Scenarios?
 **Test Scenarios** are created for the following reasons:
