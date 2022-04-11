@@ -27,7 +27,6 @@ Some of the **significant objectives** of sofware testing are as follows:
 - To reduce the level of risk of insufficient software quality
 - To comply with contractual, legal, or regulatory requirements or standards, and to verify the test objects compliance w   with such requirements or standards
 ## 3-The Test Process  
-
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/Testprocess.png" width="800" height="400">
 
 There is no one universal software test process, but there are common sets of test activities without which testing will be less likely to achieve its established objectives. These sets of test activities are a test process. The proper, specific software test process in any given situation depends on many factors.
@@ -51,7 +50,7 @@ There are mainly four **Levels of Testing** in software testing:
 - **Integration Testing**: focuses on interaction between components or systems
 - **System Testing**: focuses on the behaviour and capabilities of a whole system or product, often considering the end-   to-end tasks the system can perform and the non-functional behaviors it exhibits while performing those tasks
 - **Acceptance Testing**: like system testing, typically focuses on the behavior and capabilities of a whole system or     product
-## Testing Types
+## 5-Testing Types
 Based on the focused area, testing types are defined as follows:
 - **Functional Testing**: is a software testing technique that tests what the system does
 - **Non Functional Testing**: is a software testing technique that tests how well the system performs
