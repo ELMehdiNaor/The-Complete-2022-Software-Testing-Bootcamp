@@ -44,6 +44,8 @@ A **test process** consists of the following main groups of activities:
 
 Each main group of the activities cited above is composed on constituent activities
 ## 4-The Test Levels
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/levels-of-testing.jpg" width="400" height="200"> 
+
 There are mainly four **Levels of Testing** in software testing:
 - **Unit Testing**: also known as componenet testing or module testing focuses on components that are separately testable
 - **Integration Testing**: focuses on interaction between components or systems
