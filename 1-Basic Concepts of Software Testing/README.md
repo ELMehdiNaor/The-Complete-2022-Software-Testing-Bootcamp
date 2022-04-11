@@ -4,12 +4,12 @@
 **The Software Development Lifecycle** is a methodology used for developing software. The process comprises a series of steps needed for building, maintaining, altering, replacing or enhancing the components of software.
 #### The Models of Software Testing in SDLC 
 Software teams can choose any of many software development lifecycle models during their projects. Each model contains a series of unique steps that the team has to follow to complete the project.
-##### Sequential Models
+#### Sequential Models
 
 **The Waterfall development model** follows a linearly sequential flow. In this methodolgy, the requirement analysis, designing, development, integration, testing and deployment phases are clearly defined in separate phases and none of these phases overlap each other. The project workflow only proceeds forward and teams cannot begin one phase before the previous phase ends.
 **The V-shaped model** is similar to the waterfall model in many ways. However, one significant change in how the testing of software components is planned. Furthermore, the project does not follow a downward trend toward completion. Instead, the process turns upwards after the development phase and testers use the test plans created earlier to evaluate specific components of the product. The shift starting from the development phase allows forming a typical V-shape.
 
-##### Iterative and Incremental Models
+#### Iterative and Incremental Models
 **The Agile model** is centered around the iterative and incremental approach and cross-functional teams work in collaboration to meet the requirements of their clients. These projects require constant engagement with clients and are able to handle requirements more effectively than other models. Less time is spent in requirement analysis and more emphasis is given on pratical feedback from clients after using developed software components
 ## 2-Software Testing 
 ### What is Software Testing?
