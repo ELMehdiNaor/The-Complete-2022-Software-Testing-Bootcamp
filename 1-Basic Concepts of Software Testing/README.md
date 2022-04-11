@@ -9,6 +9,9 @@ Software teams can choose any of many software development lifecycle models duri
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/waterfallModel.png" width="600" height="400"> 
 
 - **The Waterfall development model** follows a linearly sequential flow. In this methodolgy, the requirement analysis, designing, development, integration, testing and deployment phases are clearly defined in separate phases and none of these phases overlap each other. The project workflow only proceeds forward and teams cannot begin one phase before the previous phase ends.
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/vModel.png" width="600" height="400">
+
 - **The V-shaped model** is similar to the waterfall model in many ways. However, one significant change in how the testing of software components is planned. Furthermore, the project does not follow a downward trend toward completion. Instead, the process turns upwards after the development phase and testers use the test plans created earlier to evaluate specific components of the product. The shift starting from the development phase allows forming a typical V-shape.
 
 #### Iterative and Incremental Models
