@@ -15,6 +15,9 @@ Software teams can choose any of many software development lifecycle models duri
 - **The V-shaped model** is similar to the waterfall model in many ways. However, one significant change in how the testing of software components is planned. Furthermore, the project does not follow a downward trend toward completion. Instead, the process turns upwards after the development phase and testers use the test plans created earlier to evaluate specific components of the product. The shift starting from the development phase allows forming a typical V-shape.
 
 #### Iterative and Incremental Models
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/Agile.png" width="600" height="400">
+
 **The Agile model** is centered around the iterative and incremental approach and cross-functional teams work in collaboration to meet the requirements of their clients. These projects require constant engagement with clients and are able to handle requirements more effectively than other models. Less time is spent in requirement analysis and more emphasis is given on pratical feedback from clients after using developed software components
 ## 2-Software Testing 
 ### What is Software Testing?
