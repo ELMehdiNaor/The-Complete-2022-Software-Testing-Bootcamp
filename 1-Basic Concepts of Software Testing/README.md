@@ -51,7 +51,7 @@ A **test process** consists of the following main groups of activities:
 
 Each main group of the activities cited above is composed on constituent activities
 ## 4-The Test Levels
-<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/levels-of-testing.jpg" width="500" height="400"> 
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/levels-of-testing.jpg" width="600" height="400"> 
 
 There are mainly four **Levels of Testing** in software testing:
 - **Unit Testing**: also known as componenet testing or module testing focuses on components that are separately testable
@@ -59,6 +59,9 @@ There are mainly four **Levels of Testing** in software testing:
 - **System Testing**: focuses on the behaviour and capabilities of a whole system or product, often considering the end-   to-end tasks the system can perform and the non-functional behaviors it exhibits while performing those tasks
 - **Acceptance Testing**: like system testing, typically focuses on the behavior and capabilities of a whole system or     product
 ## 5-Testing Types
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/1-Basic%20Concepts%20of%20Software%20Testing/Images/Testing_Types.png" width="600" height="400">
+
 Based on the focused area, testing types are defined as follows:
 - **Functional Testing**: is a software testing technique that tests what the system does
 - **Non Functional Testing**: is a software testing technique that tests how well the system performs
