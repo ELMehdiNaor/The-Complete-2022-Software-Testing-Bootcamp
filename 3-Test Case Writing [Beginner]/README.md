@@ -30,7 +30,7 @@ Below is the description of the test case:
 While autoring test cases there are a few important pointers that should be kept in mind: 
 - **Test Cases need to be simple and transparent**
 - **Create Test Case with End User in Mind**
-- **Avoid test case repition**
+- **Avoid test case repetition**
 - **Do not Assume**
 - **Ensure 100% Coverage**
 - **Test Cases must be identifiable**
