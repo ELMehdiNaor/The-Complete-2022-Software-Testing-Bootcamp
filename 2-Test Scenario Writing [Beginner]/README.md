@@ -30,3 +30,7 @@ As a tester, you can follow the following steps to create Test Scenarios:
 
 ### Test Scenarios writing for the Facebook Sign-up function (Web App)
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/2-Test%20Scenario%20Writing%20%5BBeginner%5D/Images/FB-Sign-up.jpg" width="400" height="300">
+
+### Test Scenarios writing for the Facebook Login function (Web App)
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/2-Test%20Scenario%20Writing%20%5BBeginner%5D/Images/FB-Login.jpg" width="600" height="200">
+
