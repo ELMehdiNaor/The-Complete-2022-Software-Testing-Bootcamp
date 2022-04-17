@@ -27,7 +27,7 @@ Below is the description of the test case:
 - **Actual Result**
 - **Status**
 ## Best Practice for writing good Test Case Example 
-While autoring test cases there are a few impotant pointers that should be kept in mind: 
+While autoring test cases there are a few important pointers that should be kept in mind: 
 - **Test Cases need to be simple and transparent**
 - **Create Test Case with End User in Mind**
 - **Avoid test case repition**
