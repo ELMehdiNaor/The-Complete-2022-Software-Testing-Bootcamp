@@ -21,3 +21,6 @@ As a tester, you can follow the following steps to create Test Scenarios:
               stakeholders involved in the project.
  ## Who and When write Test Scenarios? 
  Typically testers are the ones who are responsible for creating Test Scenarios. As Test Scenarios tell us what need to be       tested, therefore always written before test cases.
+## First Project Test Scenarios 
+### Test Scenarios writing for a dummy application using Software Requirement Specifications
+
