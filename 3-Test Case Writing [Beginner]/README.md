@@ -26,3 +26,15 @@ Below is the description of the test case:
 - **Test Environment**
 - **Actual Result**
 - **Status**
+## Best Practice for writing good Test Case Example 
+While autoring test cases there are a few impotant pointers that should be kept in mind: 
+- **Test Cases need to be simple and transparent**
+- **Create Test Case with End User in Mind**
+- **Avoid test case repition**
+- **Do not Assume**
+- **Ensure 100% Coverage**
+- **Test Cases must be identifiable**
+- **Implement Testing Techniques**
+- **Self-cleaning**
+- **Repeatable and self-standing**
+- **Peer Review**
