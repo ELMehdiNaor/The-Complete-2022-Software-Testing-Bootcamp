@@ -24,5 +24,6 @@ As a tester, you can follow the following steps to create Test Scenarios:
 ## First Project Test Scenarios 
 ### Test Scenarios writing for a dummy application using Software Requirement Specifications
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/2-Test%20Scenario%20Writing%20%5BBeginner%5D/Images/SRS_Doc.jpg" width="600" height="200">
+
 ### Test Scenarios writing for the Sign-up function of a Mobile Application (KFC)
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/2-Test%20Scenario%20Writing%20%5BBeginner%5D/Images/KFC-Sign-up.jpg" width="600" height="300">
