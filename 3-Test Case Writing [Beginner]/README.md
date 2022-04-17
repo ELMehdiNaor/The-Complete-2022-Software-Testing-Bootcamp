@@ -18,11 +18,11 @@ The benefits of an affective test case include:
 - **More satisfied customers will increase company profits**
 ## The Format of standard Test Cases
 Below is the description of the test case: 
-- **Test Case title*
+- **Test Case title**
 - **Prerequisites (Preconditions)**
 - **Test Steps**
 - **Expected Results**
-- **Test Scenario (Test Suite)
+- **Test Scenario (Test Suite)**
 - **Test Environment**
 - **Actual Result**
 - **Status**
