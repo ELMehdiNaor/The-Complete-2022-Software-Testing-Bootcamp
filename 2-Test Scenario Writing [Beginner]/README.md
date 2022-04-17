@@ -23,4 +23,4 @@ As a tester, you can follow the following steps to create Test Scenarios:
  Typically testers are the ones who are responsible for creating Test Scenarios. As Test Scenarios tell us what need to be       tested, therefore always written before test cases.
 ## First Project Test Scenarios 
 ### Test Scenarios writing for a dummy application using Software Requirement Specifications
-<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/2-Test%20Scenario%20Writing%20%5BBeginner%5D/Images/SRS_Doc.jpg" width="400" height="400">
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/2-Test%20Scenario%20Writing%20%5BBeginner%5D/Images/SRS_Doc.jpg" width="600" height="200">
