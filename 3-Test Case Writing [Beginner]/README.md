@@ -38,3 +38,7 @@ While autoring test cases there are a few important pointers that should be kept
 - **Self-cleaning**
 - **Repeatable and self-standing**
 - **Peer Review**
+## Who writes Test Cases?
+**Test cases** are typically written by members of **quality assurance (QA) team** or the testing team and can be used as step-by-step instructions for each system test. A sequence or collection of test cases is called **test suite**.
+
+## First Project Test Cases
