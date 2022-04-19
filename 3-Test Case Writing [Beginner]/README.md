@@ -42,3 +42,9 @@ While autoring test cases there are a few important pointers that should be kept
 **Test cases** are typically written by members of **quality assurance (QA) team** or the testing team and can be used as step-by-step instructions for each system test. A sequence or collection of test cases is called **test suite**.
 
 ## First Project Test Cases
+### Test Cases for registration and login scenarios
+[Link to the Sign-up screen](https://imgbb.com/VHMJ4Bm)
+
+[Link to the Login screen](https://imgbb.com/fNjwsFp)
+
+[Link to my Test Cases](https://docs.google.com/spreadsheets/d/1RJ6_062TInfaq3GEfR9WR0QOhNTYGwVr6PNFWppniVs/edit#gid=1729917666)
