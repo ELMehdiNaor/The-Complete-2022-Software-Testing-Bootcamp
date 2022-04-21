@@ -1,5 +1,5 @@
 # Bug Reporting 
-<img src = "https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/4-Test%20Execution%20and%20Bug%20reporting/Images/Bug_Report.png" width="300" height="300">
+<img src = "https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/4-Test%20Execution%20and%20Bug%20reporting/Images/Bug_Report.png" width="400" height="400">
 
 ## What's a Bug Report?
 **Bug Report** also known as **Defect Report**, is a document that identifies and describes a **defect**(**Bug**) detected by a tester. The purpose of a defect report is to state the problem as clearly as 
