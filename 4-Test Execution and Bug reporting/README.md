@@ -33,8 +33,8 @@ consist of the following elements.
 ## Reporting Defect Effectively
 It is essential that you report defects effectively so that time and effort is not unnecessarily wasted in trying to understand and reproduce the defect.
 Here are some guidelines:
--**Be specific**
--**Be detailed**
--**Be objective**
--**Reproduce the defect**
--**Review the report** 
+- **Be specific**
+- **Be detailed**
+- **Be objective**
+- **Reproduce the defect**
+- **Review the report** 
