@@ -45,6 +45,8 @@ Testers can divide possible inputs into groups or “partitions”, and test onl
 ### Boundary Value Analysis
 Testers can identify that a system has a special response around a specific boundary value. For example, a specific field may accept only values between 0 and 99. Testers can focus on the boundary values (-1, 0, 99 and 100), to see if the system is accepting and rejecting inputs correctly.
 
+[Link on how to do Boundary Value Analysis](https://www.youtube.com/watch?v=TnUhrFSQd1o)
+
 ### Decision Table Testing
 Many systems provide outputs based on a set of conditions. Testers can then identify “rules” which are a combination of conditions, identify the outcome of each rule, and design a test case for each rule.
 
@@ -61,7 +63,11 @@ For example, a health insurance company may provide different premium based on t
 
 In this case four use cases (one for each rule) would be sufficient to fully test the system
 
+[Link on how to make a Decision Table](https://www.guru99.com/decision-table-testing.html#:~:text=Decision%20table%20testing%20is%20a,captured%20in%20a%20tabular%20form.)
+
 ### State Transition Testing
 In some systems, significant responses are generated when the system transitions from one state to another. A common example is a login mechanism which allows users to authenticate, but after a specific number of login attempts, transition to a different state, locking the account.
 
 If testers identify a state transition mechanism, they can design test cases that probe the system when it transitions states. For example, for a system that locks the account after five failed login attempts, a test case can check what happens at the sixth login attempt.
+
+[Link on how to do State Transition Testing](https://www.youtube.com/watch?v=OFvTt997POg)
