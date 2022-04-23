@@ -40,6 +40,8 @@ Black box testing can be applied to three main types of tests: **functional**, *
 ### Equivalence Partitioning
 Testers can divide possible inputs into groups or “partitions”, and test only one example input from each group. For example, if a system requires a user’s birth date and provides the same response for all users under the age of 18, and a different response for users over 18, it is sufficient for testers to check one birth date in the “under 18” group and one date in the “over 18” group.
 
+[Link on how to do Equivalence Partitioning](https://www.youtube.com/watch?v=mb-I7Skf-zU)
+
 ### Boundary Value Analysis
 Testers can identify that a system has a special response around a specific boundary value. For example, a specific field may accept only values between 0 and 99. Testers can focus on the boundary values (-1, 0, 99 and 100), to see if the system is accepting and rejecting inputs correctly.
 
