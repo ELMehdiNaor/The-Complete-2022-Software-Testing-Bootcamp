@@ -57,7 +57,7 @@ For example, a health insurance company may provide different premium based on t
 | Medium premium |  x  |  x  |    |    | 
 | Low premium |    |    |  x  |    |  
 
-In this case four use caes (one for each rule) would be sufficient to fully test the system
+In this case four use cases (one for each rule) would be sufficient to fully test the system
 
 ### State Transition Testing
 In some systems, significant responses are generated when the system transitions from one state to another. A common example is a login mechanism which allows users to authenticate, but after a specific number of login attempts, transition to a different state, locking the account.
