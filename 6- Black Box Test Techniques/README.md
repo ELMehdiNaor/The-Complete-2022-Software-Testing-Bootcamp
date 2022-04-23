@@ -61,4 +61,5 @@ In this case four use caes (one for each rule) would be sufficient to fully test
 
 ### State Transition Testing
 In some systems, significant responses are generated when the system transitions from one state to another. A common example is a login mechanism which allows users to authenticate, but after a specific number of login attempts, transition to a different state, locking the account.
+
 If testers identify a state transition mechanism, they can design test cases that probe the system when it transitions states. For example, for a system that locks the account after five failed login attempts, a test case can check what happens at the sixth login attempt.
