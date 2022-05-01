@@ -52,4 +52,4 @@ More information can be found at : [Link to the official website](http://www.tes
 
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Metrics3.png" width="600" height="300">
 
-<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Metrics4.png" width="600" height="300">
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Metric4.png" width="600" height="300">
