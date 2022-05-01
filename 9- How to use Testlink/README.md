@@ -38,3 +38,18 @@ More information can be found at : [Link to the official website](http://www.tes
 
 ### Requirement Creation
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Requirements_Creation.png" width="600" height="300">
+
+### Platformes and Milestones
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Platformes_Milestones.png" width="600" height="300">
+
+### Test Case Execution
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Execution.png" width="600" height="300">
+
+### Test Metrics and Reports
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Metrics.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Metrics2.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Metrics3.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/9-%20How%20to%20use%20Testlink/Test_Metrics4.png" width="600" height="300">
