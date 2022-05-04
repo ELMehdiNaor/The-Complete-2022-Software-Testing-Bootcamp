@@ -99,10 +99,14 @@ a less rigid chain of command. A flatter hierarchy, where everyone gets an equal
 One of the core tenets of the Agile Manifesto is that teams should always develop their products based on feedback. The same applies to the team's processes
 and methodologies. As time goes on, teams should consider how they can become even more efficient and agile. It's all about continuous improvement.
 
- 
- 
- 
- 
+## The Whole Team Approach in Agile Testing
+In Agile, the **whole-team approach** means involving everyone with different knowledge and skills to ensure project success. The team includes representatives from the customer also known as the Product Owner, and other business stakeholders who determine product features.
+
+The team should be relatively small, typically between five to seven, however, successful teams have been observed with as few as three people and as many as nine. Ideally, the whole team shares the same workspace and are sat as a group, as co-location strongly facilitates communication and interaction. 
+
+The **whole team approach** is supported through the daily stand-up meetings involving all members of the team, where work progress is communicated and any impediments to progress are highlighted. The **whole team approach* promotes more effective and efficient team dynamics. 
+
+
  
  
  
