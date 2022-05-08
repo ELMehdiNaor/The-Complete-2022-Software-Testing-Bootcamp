@@ -17,4 +17,6 @@ teams to track bugs, stories, epics, and other tasks. Jira software is also desi
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_User_Stories.png" width="600" height="300">
 
 ## Writing Acceptance Criteria 
-<img srg="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Acceptance_Criteria.png" width="600" height="300">
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Acceptance_Criteria.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Acceptance_Criteria2.png" width="600" height="300">
