@@ -20,3 +20,20 @@ teams to track bugs, stories, epics, and other tasks. Jira software is also desi
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Acceptance_Criteria.png" width="600" height="300">
 
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Acceptance_Criteria2.png" width="600" height="300">
+
+## Story Points
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Story_Points.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Story_Points_Time_Tracking.png" width="600" height="300">
+
+## Sprint & Iteration Management 
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Sprint_Iteration_Management.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Sprint_Iteration_Management2.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Sprint_Iteration_Management3.png" width="600" height="300">
+
+## Burn-down Chart & Velocity Chart 
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Burn_Down.png" width="600" height="300">
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/11-%20How%20to%20use%20JIRA%20for%20Agile%20Testing/Jira_Velocity_Chart.png" width="600" height="300">
