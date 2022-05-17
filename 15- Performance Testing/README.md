@@ -28,3 +28,11 @@ There are many types of testing methods that can be used to determine performanc
    
 ## Performance Testing process
 <img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/15-%20Performance%20Testing/PR_Testing_Process.png" width="600" height="300">
+
+The specific steps of performance testing will vary from one organization and application to the next. Nevertheless, the general goals of performance testing are largerly the same across the board so there is a certain workflow most testing plans will follow: 
+
+- **Identify the Test Environment and Tools:** identify the production environment, testing environment, and testing tools at your disposal. Document the hardware, software, infrastructure specifications and configurations in both test and production environments to ensure coherence. 
+- **Define Performance Criteria:** determine the constraints, goals and thresholds that will demonstrate test success. The major criteria will be derived directly from the project specifications, but testers should be adequatly empowered to set a wider set of tests and benchmarks.
+- **Plan and Design Tests:** think about how widely usage is bound to vary then create test scenarios that accommodate all feasible use cases. Design the tests accordingly and outline the metrics that should be captured.
+- **Configure Test Environment:** configure the testing environment before you execute the performance tests. 
+- **Run Tests, Analyze and retest :** consolidate and analyze test results. Share the findings with the project team. Repeat the test to confirm each problem has been conclusively eliminated. 
