@@ -36,3 +36,17 @@ The specific steps of performance testing will vary from one organization and ap
 - **Plan and Design Tests:** think about how widely usage is bound to vary then create test scenarios that accommodate all feasible use cases. Design the tests accordingly and outline the metrics that should be captured.
 - **Configure Test Environment:** configure the testing environment before you execute the performance tests. 
 - **Run Tests, Analyze and retest :** consolidate and analyze test results. Share the findings with the project team. Repeat the test to confirm each problem has been conclusively eliminated. 
+
+## Example Performance Test Cases
+- Verify response time is no more than 4 seconds when 1000 users access the website simultaneously
+- Verify response time of the Application Under Load is whitin an acceptable range when the network connectivity is slow
+- Verify response time of the Application under low, normal, moderate and heavy load conditions
+- Check the maximum number of users that the application can handle before it crashes
+- Check database execution time when 500 records are read/written simultaneously
+- Check CPU and memory usage of the application and the database server under peak load conditions
+
+## Performance Test Tools 
+There are a wide variety of performance testing tools available in the market. The tool you choose for testing will depend on many factors such as types of the protocol supported, license cost, hardware requirements, platform support etc. Below are some of the most popular used testing tools: 
+
+- **JMeter:** one of the leading tools used for load testing of web and application servers
+- **HP Loadrunner:** is the most popular performance testing tools on the market today. This tool is capable of simulating hundreds of thousands of users, putting applications under real-life loads to determine their behavior under expected loads. **L0oadrunner** features a virtual user generator which simulates the actions of live human users.
