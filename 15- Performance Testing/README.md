@@ -1,4 +1,6 @@
 # Performance Testing 
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/15-%20Performance%20Testing/PR_Testing.jpg" width="800" height="400">
+
 ## What is Performance Testing ?
 Performance testing is **non-functional** software testing technique, that ensures software applications to perform properly 
 under their expected wordload. It is a testing technique carried out to determine system performance in terms of sensitivity, 
@@ -25,3 +27,4 @@ There are many types of testing methods that can be used to determine performanc
    product's performance under varying database volumes.
    
 ## Performance Testing process
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/15-%20Performance%20Testing/PR_Testing_Process.png" width="600" height="300">
