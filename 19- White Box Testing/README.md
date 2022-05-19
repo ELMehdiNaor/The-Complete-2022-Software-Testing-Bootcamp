@@ -1,4 +1,7 @@
 # White Box Testing
+
+<img src="https://github.com/ELMehdiNaor/The-Complete-2022-Software-Testing-Bootcamp/blob/main/19-%20White%20Box%20Testing/white-box-testing.png" width="600" height="400">
+
 ## What is White Box Testing
 **White box testing** is a testing technique which evaluates the code and the internal structure of a program. **White box testing**
 involves looking at the structure of the code. When you know the internal structure of a product, tests can be conducted to ensure that 
